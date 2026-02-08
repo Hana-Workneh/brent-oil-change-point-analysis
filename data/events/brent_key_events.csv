@@ -1,0 +1,12 @@
+event_date,event_name,category,description,expected_market_channel
+2014-11-27,OPEC maintains production despite oversupply,OPEC Policy,OPEC decided not to cut production, accelerating the 2014–2015 oil price collapse,Oversupply / negative price pressure
+2015-07-14,Iran nuclear deal (JCPOA) signed,Geopolitics/Sanctions,Agreement raised expectations of Iranian oil returning to market,Future supply increase
+2016-11-30,OPEC production cut agreement,OPEC Policy,OPEC agreed to coordinated production cuts after prolonged low prices,Supply restriction / price support
+2018-05-08,US withdrawal from Iran nuclear deal,Geopolitics/Sanctions,US announced exit from JCPOA and future sanctions on Iran,Supply risk / price increase
+2018-06-22,OPEC agrees to increase output,OPEC Policy,OPEC responded to rising prices by increasing production,Supply increase / price moderation
+2019-09-14,Attack on Saudi Aramco facilities,Conflict,Drone attack temporarily disrupted Saudi oil production,Supply disruption / risk premium
+2020-03-06,OPEC+ talks collapse,OPEC+/Geopolitics,Saudi Arabia and Russia failed to agree on cuts,Price war / sharp price decline
+2020-04-20,Oil demand collapse during COVID-19,Economic Shock,Global demand collapsed leading to extreme price dislocations,Demand shock / extreme volatility
+2021-07-18,OPEC+ agreement to increase production,OPEC Policy,OPEC+ agreed to gradually increase output as demand recovered,Supply increase
+2022-02-24,Russia invades Ukraine,Conflict,Invasion triggered sanctions and supply concerns,Supply risk / price surge
+2022-06-03,EU sanctions on Russian oil announced,Sanctions/Policy,EU agreed on phased ban of Russian seaborne oil imports,Medium-term supply constraint
